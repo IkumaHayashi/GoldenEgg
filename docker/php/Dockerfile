@@ -26,6 +26,8 @@ RUN set -eux && \
     tzdata \
     libzip-dev \
     oniguruma-dev \
+    chromium \
+    chromium-chromedriver \
     nodejs \
     nodejs-npm && \
   # redisのインストール
